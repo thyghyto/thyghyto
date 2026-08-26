@@ -1,16 +1,74 @@
-## Hi there 👋
+# Olá, sou o THIGHITO 👋🧑‍💻
 
-<!--
-**thyghyto/thyghyto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor focado em soluções Web Full Stack, projetos com Inteligência Artificial e integração com Eletrônica/IoT.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre Mim
+- 🎮 Desenvolvendo projetos de **Jogos Web** focados em interatividade e imersão.
+- 🧠 Criando soluções com **Inteligência Artificial** em Python.
+- 🔌 Experiência prática com **Eletrônica** e automação.
+
+---
+
+### ⚒️ Tecnologias e Ferramentas
+
+#### Linguagens
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### Banco de Dados & Formatos
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+
+#### Ferramentas & Infraestrutura
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Domínios & DNS](https://img.shields.io/badge/Dom%C3%ADnios%20%26%20DNS-000000?style=for-the-badge&logo=internet-explorer&logoColor=white)
+
+---
+
+### 🎯 Foco no Momento
+- 🗄️ Aprofundando estudos em **Banco de Dados**.
+- 🤖 Desenvolvendo soluções de **IA** com Python.
+- ⚡ Aprimorando conhecimentos em **JavaScript**.
+
+---
+
+### 🚪 Fora dos Bits
+Fora das telas, costumo mexer com eletrônica, criando robôs e gambiarras mecânicas — tudo isso acompanhado de um bom metal (geralmente Slipknot). Também aprecio a paz da natureza e a tranquilidade das madrugadas.
+
+---
+
+# ⚡ Código Binário
+
+<font color="gray"><i>"O futuro é escrito em Bits..."</i></font>
+
+Transformamos ideias em sistemas web de alta performance e experiências interativas marcantes.
+
+---
+
+### 🌐 Web Studio
+Desenvolvimento ágil de Landing Pages e sites focados em performance, design moderno e suporte contínuo.
+- 🚀 **Entrega Rápida:** Código otimizado para carregamento instantâneo.
+- 🎨 **Design Exclusivo:** Interfaces bonitas e totalmente responsivas.
+- 🛠️ **Suporte Ativo:** Manutenção e garantia de funcionamento.
+
+---
+
+### 🎮 Games Studio
+Estúdio independente focado no desenvolvimento de jogos web e em engines, especializado em terror psicológico e narrativas imersivas.
+- 👁️ **Terror Psicológico:** Mecânicas que interagem com a percepção do jogador.
+- 🕹️ **Acessibilidade Web:** Jogos leves que rodam direto no navegador.
+- 🛠️ **Engines & Web Tech:** Projetos desenvolvidos com HTML5/JS e engines dedicadas.
+
+---
+
+### 📞 Meus Contatos
+- 🌐 **Código Binário:** [codigobinario.net.br](https://codigobinario.net.br/)
+- 💼 **Portfólio:** [thighito.site](https://thighito.site/?i=1)
+- 📸 **Instagram:** [@thighito1](https://www.instagram.com/thighito1)
