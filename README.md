@@ -44,27 +44,15 @@ Fora das telas, costumo mexer com eletrônica, criando robôs e gambiarras mecâ
 
 ---
 
-# ⚡ Código Binário
+# 🌙 Cythel
 
-<font color="gray"><i>"O futuro é escrito em Bits..."</i></font>
-
-Transformamos ideias em sistemas web de alta performance e experiências interativas marcantes.
-
----
-
-### 🌐 Web Studio
-Desenvolvimento ágil de Landing Pages e sites focados em performance, design moderno e suporte contínuo.
-- 🚀 **Entrega Rápida:** Código otimizado para carregamento instantâneo.
-- 🎨 **Design Exclusivo:** Interfaces bonitas e totalmente responsivas.
-- 🛠️ **Suporte Ativo:** Manutenção e garantia de funcionamento.
-
----
+<font color="gray"><i>"Há histórias que só fazem sentido no escuro."</i></font>
 
 ### 🎮 Games Studio
 Estúdio independente focado no desenvolvimento de jogos web e em engines, especializado em terror psicológico e narrativas imersivas.
 - 👁️ **Terror Psicológico:** Mecânicas que interagem com a percepção do jogador.
 - 🕹️ **Acessibilidade Web:** Jogos leves que rodam direto no navegador.
-- 🛠️ **Engines & Web Tech:** Projetos desenvolvidos com HTML5/JS e engines dedicadas.
+- 🛠️ **Engines & Web Tech:** Projetos desenvolvidos com engines dedicadas.
 
 ---
 
