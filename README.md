@@ -49,14 +49,13 @@ Fora das telas, costumo mexer com eletrônica, criando robôs e gambiarras mecâ
 <font color="gray"><i>"Há histórias que só fazem sentido no escuro."</i></font>
 
 ### 🎮 Games Studio
-Estúdio independente focado no desenvolvimento de jogos web e em engines, especializado em terror psicológico e narrativas imersivas.
+Estúdio focado no desenvolvimento de jogos web e em engines, especializado em terror psicológico e narrativas imersivas.
 - 👁️ **Terror Psicológico:** Mecânicas que interagem com a percepção do jogador.
-- 🕹️ **Acessibilidade Web:** Jogos leves que rodam direto no navegador.
+- 🕹️ **Acessibilidade Web:** Jogos leves que rodam no seu navegador ou é instalado.
 - 🛠️ **Engines & Web Tech:** Projetos desenvolvidos com engines dedicadas.
 
 ---
 
 ### 📞 Meus Contatos
-- 🌐 **Código Binário:** [codigobinario.net.br](https://codigobinario.net.br/)
 - 💼 **Portfólio:** [thighito.site](https://thighito.site/?i=1)
 - 📸 **Instagram:** [@thighito1](https://www.instagram.com/thighito1)
