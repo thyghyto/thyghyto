@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="banner1.png" alt="seu_nome@github" />
+  <img src="assets/banner1.jpg" alt="thyghyto@github" />
 </p>
 
 ## 👋 Sobre mim
