@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="profile.svg" alt="seu_nome@github" />
+  <img src="banner1.png" alt="seu_nome@github" />
 </p>
 
 ## 👋 Sobre mim
