@@ -18,7 +18,7 @@ thyghyto@github ─────────────────────�
 . Languages.Programming . JavaScript, Python, PHP
 . Languages.Computer .... HTML, CSS, JSON
 
-. Skills.Frontend ....... React, Tailwind, TypeScript
+. Skills.Frontend ....... React
 . Skills.Backend ........ MariaDB, SQL
 . Hobbies ............... Games, Música, Hardware, programar jogos
 ```
