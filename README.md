@@ -10,17 +10,22 @@ Desenvolvedor(a) full stack apaixonado(a) por construir coisas úteis, aprender 
 
 ```text
 thyghyto@github ────────────────────────
-. OS .................... Windows 11, Linux
+. OS .................... Linux (Zorin OS), Windows
 . Role .................. Desenvolvedor Full Stack
-. Uptime ................ 2 anos programando
-. IDE ................... VS Code
+. Uptime ................ Experiência prática em programação
+. IDE ................... VS Code, Arduino IDE
 
 . Languages.Programming . JavaScript, Python, PHP
-. Languages.Computer .... HTML, CSS, JSON
+. Languages.Computer .... HTML, CSS, JSON, SQL
 
-. Skills.Frontend ....... React
-. Skills.Backend ........ MariaDB, SQL
-. Hobbies ............... Games, Música, Hardware, programar jogos
+. Skills.Frontend ....... HTML, CSS, JavaScript, React
+. Skills.Backend ........ PHP, Python, MariaDB, SQL
+. Skills.Tools .......... Git, GitHub, Linux
+. Skills.Gamedev ........ Ren'Py, Pygame
+. Skills.Hardware ....... Arduino, Sensores, Servomotores
+. Skills.AI ............. IA aplicada à programação
+. Hobbies ............... Games, Música, Hardware, Astronomia,
+                          Programação, Desenvolvimento de Jogos
 ```
 
 ## 🛠️ Skills
