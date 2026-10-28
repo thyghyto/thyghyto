@@ -4,7 +4,7 @@
 
 ## Sobre mim
 
-Desenvolvedor(a) full stack apaixonado(a) por construir coisas úteis, aprender rápido e deixar o código limpo. Gosto de transformar ideias em produtos que funcionam de verdade.
+Desenvolvedor full stack apaixonado por construir coisas úteis, aprender rápido e deixar o código limpo. Gosto de transformar ideias em produtos que funcionam de verdade.
 
 ## Sistema
 
