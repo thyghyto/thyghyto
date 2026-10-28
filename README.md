@@ -2,27 +2,25 @@
   <img src="assets/banner2.jpg" alt="thyghyto@github" />
 </p>
 
-## 👋 Sobre mim
+## Sobre mim
 
 Desenvolvedor(a) full stack apaixonado(a) por construir coisas úteis, aprender rápido e deixar o código limpo. Gosto de transformar ideias em produtos que funcionam de verdade.
 
-## 🖥️ Sistema
+## Sistema
 
 ```text
-seu_nome@github ────────────────────────
+thyghyto@github ────────────────────────
 . OS .................... Windows 11, Linux
 . Role .................. Desenvolvedor Full Stack
 . Uptime ................ 2 anos programando
 . IDE ................... VS Code
 
-. Languages.Programming . JavaScript, Python
+. Languages.Programming . JavaScript, Python, PHP
 . Languages.Computer .... HTML, CSS, JSON
-. Languages.Real ........ Português
 
 . Skills.Frontend ....... React, Tailwind, TypeScript
-. Skills.Backend ........ Node.js, FastAPI, REST
-. Skills.Tools .......... Git, Docker, Linux
-. Hobbies ............... Games, Música, Hardware
+. Skills.Backend ........ MariaDB, SQL
+. Hobbies ............... Games, Música, Hardware, programar jogos
 ```
 
 ## 🛠️ Skills
@@ -34,8 +32,7 @@ seu_nome@github ─────────────────────�
 ## 📫 Contato
 
 - ✉️ Email: thighito@gmail.com
-- 💼 LinkedIn: linkedin.com/in/seu-usuario
-- 💬 Discord: seu-usuario
+- 💬 Instagram: thighito1
 
 ## 📊 GitHub Stats
 
