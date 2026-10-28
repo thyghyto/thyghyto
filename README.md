@@ -36,4 +36,4 @@ thyghyto@github ─────────────────────�
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=blue-green&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=thyghyto&show_icons=true&theme=blue-green&hide_border=true)
