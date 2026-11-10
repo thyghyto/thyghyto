@@ -4,7 +4,7 @@
 
 ---
 
-## 💻 Skills
+## Skills
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-008f5a?style=for-the-badge&logo=html5&logoColor=000000)
@@ -33,7 +33,7 @@
 
 ---
 
-## 🌐 Redes Sociais & Contato
+## Redes Sociais & Contato
 
 <p align="center">
   <a href="https://github.com/thyghyto">
@@ -49,7 +49,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=thyghyto&show_icons=true&theme=blue-green&hide_border=true" alt="GitHub Stats">
@@ -59,7 +59,7 @@
 
 <div align="center">
 
-## 💾 Obrigado por visitar meu perfil!
+## Obrigado por visitar meu perfil!
 
 <img src="https://img.shields.io/badge/STATUS-SESSION%20COMPLETED-008f5a?style=for-the-badge&logo=windows95&logoColor=white">
 
@@ -70,12 +70,13 @@ thyghyto@github:~$ exit
 
 Encerrando conexão...
 Salvando progresso........ OK
-Desligando monitor....... OK
+HACKEANDO SEU COMPUTADOR....... OK
+ROUBANDO ARQUIVOS PRIVADOS.......... OK
 
-Obrigado pela visita!
+brincadeirinha... :P
+
+Obrigado pela visita 👍
 Volte sempre! :D
-
-Connection terminated.
 _ 
 ```
 
