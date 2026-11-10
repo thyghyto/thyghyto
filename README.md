@@ -36,4 +36,6 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=thyghyto&show_icons=true&theme=blue-green&hide_border=true)
+## 📊 GitHub Stats
+
+![Stats](https://github-stats-extended.vercel.app/api?username=thyghyto&show_icons=true&theme=blue-green&hide_border=true)
