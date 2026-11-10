@@ -2,10 +2,6 @@
   <img src="assets/Perfil de Desenvolvedor em CRT Retrô.png" alt="thyghyto@github" />
 </p>
 
- <p align="center">
-  <img src="assets/Perfil de Desenvolvedor em CRT Retrô.png" alt="thyghyto@github" />
-</p>
-
 ## Skills
 
 ### Frontend
