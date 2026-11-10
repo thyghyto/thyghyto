@@ -2,26 +2,6 @@
   <img src="assets/Perfil Hacker em Estilo Terminal Retro.png" alt="thyghyto@github" />
 </p>
 
-## Sistema
-
-```text
-thyghyto@github ────────────────────────
-. OS .................... Linux (Zorin OS), Windows
-. Role .................. Desenvolvedor Full Stack
-. Uptime ................ Experiência prática em programação
-. IDE ................... VS Code, Arduino IDE
-
-. Languages.Programming . JavaScript, Python, PHP
-. Languages.Computer .... HTML, CSS, JSON, SQL
-
-. Skills.Frontend ....... HTML, CSS, JavaScript, React
-. Skills.Backend ........ PHP, Python, MariaDB, SQL
-. Skills.Tools .......... Git, GitHub, Linux
-. Skills.Gamedev ........ Ren'Py, Pygame
-. Skills.Hardware ....... Arduino, Sensores, Servomotores
-. Skills.AI ............. IA aplicada à programação
-. Hobbies ............... Games, Música, Hardware, Astronomia,
-                          Programação, Desenvolvimento de Jogos
 ```
 
 ## Skills
