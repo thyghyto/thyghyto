@@ -2,10 +2,6 @@
   <img src="assets/banner2.jpg" alt="thyghyto@github" />
 </p>
 
-## Sobre mim
-
-Desenvolvedor full stack apaixonado por construir coisas úteis, aprender rápido e deixar o código limpo. Gosto de transformar ideias em produtos que funcionam de verdade.
-
 ## Sistema
 
 ```text
@@ -28,7 +24,7 @@ thyghyto@github ─────────────────────�
                           Programação, Desenvolvimento de Jogos
 ```
 
-## 🛠️ Skills
+## Skills
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-1f6feb?style=for-the-badge&logo=html5&logoColor=white)
@@ -55,10 +51,10 @@ thyghyto@github ─────────────────────�
 ![Pygame](https://img.shields.io/badge/Pygame-1f6feb?style=for-the-badge&logo=python&logoColor=white)
 ![Ren'Py](https://img.shields.io/badge/Ren'Py-1f6feb?style=for-the-badge&logo=renpy&logoColor=white)
 
-## 📫 Contato
+## Contato
 
-- ✉️ Email: thighito@gmail.com
-- 💬 Instagram: thighito1
+- Email: thighito@gmail.com
+- Instagram: thighito1
 
 ## 📊 GitHub Stats
 
