@@ -2,34 +2,36 @@
   <img src="assets/Perfil de Desenvolvedor em CRT Retrô.png" alt="thyghyto@github" />
 </p>
 
-```
+ <p align="center">
+  <img src="assets/Perfil de Desenvolvedor em CRT Retrô.png" alt="thyghyto@github" />
+</p>
 
 ## Skills
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-1f6feb?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1f6feb?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-1f6feb?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-1f6feb?style=for-the-badge&logo=react&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-008f5a?style=for-the-badge&logo=html5&logoColor=000000)
+![CSS3](https://img.shields.io/badge/CSS3-008f5a?style=for-the-badge&logo=css3&logoColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-008f5a?style=for-the-badge&logo=javascript&logoColor=000000)
+![React](https://img.shields.io/badge/React-008f5a?style=for-the-badge&logo=react&logoColor=000000)
 
 ### Backend & Banco de Dados
-![Python](https://img.shields.io/badge/Python-1f6feb?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-1f6feb?style=for-the-badge&logo=php&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-1f6feb?style=for-the-badge&logo=mariadb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-1f6feb?style=for-the-badge&logo=postgresql&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-1f6feb?style=for-the-badge&logo=json&logoColor=white)
+![Python](https://img.shields.io/badge/Python-008f5a?style=for-the-badge&logo=python&logoColor=000000)
+![PHP](https://img.shields.io/badge/PHP-008f5a?style=for-the-badge&logo=php&logoColor=000000)
+![MariaDB](https://img.shields.io/badge/MariaDB-008f5a?style=for-the-badge&logo=mariadb&logoColor=000000)
+![SQL](https://img.shields.io/badge/SQL-008f5a?style=for-the-badge&logo=postgresql&logoColor=000000)
+![JSON](https://img.shields.io/badge/JSON-008f5a?style=for-the-badge&logo=json&logoColor=000000)
 
 ### Ferramentas & Sistemas
-![Git](https://img.shields.io/badge/Git-1f6feb?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-1f6feb?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-1f6feb?style=for-the-badge&logo=linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-1f6feb?style=for-the-badge&logo=windows&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-1f6feb?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-008f5a?style=for-the-badge&logo=git&logoColor=000000)
+![GitHub](https://img.shields.io/badge/GitHub-008f5a?style=for-the-badge&logo=github&logoColor=000000)
+![Linux](https://img.shields.io/badge/Linux-008f5a?style=for-the-badge&logo=linux&logoColor=000000)
+![Windows](https://img.shields.io/badge/Windows-008f5a?style=for-the-badge&logo=windows&logoColor=000000)
+![VS Code](https://img.shields.io/badge/VS_Code-008f5a?style=for-the-badge&logo=visualstudiocode&logoColor=000000)
 
 ### Hardware & Gamedev
-![Arduino](https://img.shields.io/badge/Arduino-1f6feb?style=for-the-badge&logo=arduino&logoColor=white)
-![Pygame](https://img.shields.io/badge/Pygame-1f6feb?style=for-the-badge&logo=python&logoColor=white)
-![Ren'Py](https://img.shields.io/badge/Ren'Py-1f6feb?style=for-the-badge&logo=renpy&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-008f5a?style=for-the-badge&logo=arduino&logoColor=000000)
+![Pygame](https://img.shields.io/badge/Pygame-008f5a?style=for-the-badge&logo=python&logoColor=000000)
+![Ren'Py](https://img.shields.io/badge/Ren'Py-008f5a?style=for-the-badge&logo=renpy&logoColor=000000)
 
 ## Contato
 
