@@ -34,8 +34,6 @@
 - Email: thighito@gmail.com
 - Instagram: thighito1
 
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Stats](https://github-stats-extended.vercel.app/api?username=thyghyto&show_icons=true&theme=blue-green&hide_border=true)
