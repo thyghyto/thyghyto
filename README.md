@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="assets/banner2.jpg" alt="thyghyto@github" />
+  <img src="assets/Perfil Hacker em Estilo Terminal Retro.png" alt="thyghyto@github" />
 </p>
 
 ## Sistema
