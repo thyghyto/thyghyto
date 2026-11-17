@@ -3,9 +3,6 @@
 </p>
 
 ---
-
-## Skills
-
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-1E3A5F?style=for-the-badge&logo=html5&logoColor=FFFFFF)
 ![CSS3](https://img.shields.io/badge/CSS3-1E3A5F?style=for-the-badge&logo=css3&logoColor=FFFFFF)
@@ -32,9 +29,6 @@
 ![Ren'Py](https://img.shields.io/badge/RenPy-1E3A5F?style=for-the-badge&logo=renpy&logoColor=FFFFFF)
 
 ---
-
-## Redes Sociais & Contato
-
 <p align="center">
   <a href="https://github.com/thyghyto">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -48,9 +42,6 @@
 </p>
 
 ---
-
-## GitHub Stats
-
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=thyghyto&show_icons=true&theme=blue-green&hide_border=true" alt="GitHub Stats">
 </p>
