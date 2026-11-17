@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="assets/Perfil hacker em estética terminal retro.png" alt="thyghyto@github" />
+  <img src="assets/Perfil terminal Iceveil em ASCII.png" alt="thyghyto@github" />
 </p>
 
 ---
